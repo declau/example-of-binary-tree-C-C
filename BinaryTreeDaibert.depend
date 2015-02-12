@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1333000296 source:d:\downloads\binarytreedaibert\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
